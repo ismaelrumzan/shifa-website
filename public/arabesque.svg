@@ -1,0 +1,27 @@
+      <svg className="text-gray-400">
+        <defs>
+          <pattern
+            id="arabesque"
+            x="0"
+            y="0"
+            width="40"
+            height="40"
+            patternUnits="userSpaceOnUse">
+            <path
+              d="M20 0C8.96 0 0 8.96 0 20s8.96 20 20 20 20-8.96 20-20S31.04 0 20 0zm0 36C11.16 36 4 28.84 4 20S11.16 4 20 4s16 7.16 16 16-7.16 16-16 16z"
+              fill="currentColor"
+              fillOpacity="0.15"
+            />
+            <path
+              d="M20 8c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 20c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"
+              fill="currentColor"
+              fillOpacity="0.15"
+            />
+            <path
+              d="M20 12c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-3.6-8-8-8zm0 12c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"
+              fill="currentColor"
+              fillOpacity="0.15"
+            />
+          </pattern>
+        </defs>
+      </svg>
